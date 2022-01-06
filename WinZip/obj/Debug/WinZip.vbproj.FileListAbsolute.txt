@@ -1,0 +1,11 @@
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\WinZip\WinZip\bin\Debug\WinZip.exe.config
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\WinZip\WinZip\bin\Debug\WinZip.exe
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\WinZip\WinZip\bin\Debug\WinZip.pdb
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\WinZip\WinZip\bin\Debug\WinZip.xml
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\WinZip\WinZip\obj\Debug\WinZip.vbprojResolveAssemblyReference.cache
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\WinZip\WinZip\obj\Debug\WinZip.Resources.resources
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\WinZip\WinZip\obj\Debug\WinZip.vbproj.GenerateResource.Cache
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\WinZip\WinZip\obj\Debug\WinZip.exe
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\WinZip\WinZip\obj\Debug\WinZip.xml
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\WinZip\WinZip\obj\Debug\WinZip.pdb
+C:\Users\Redaj\Documents\Visual Studio 2017\Projects\WinZip\WinZip\obj\Debug\WinZip.Form1.resources
